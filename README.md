@@ -3,9 +3,6 @@
 Hello People This Is My Repository And I Hope You Enjoy It
 
 
-![alt text]( download.jpeg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
-
-
 ###### Course: §126.42
 
 ## Digital Art & Animation
@@ -72,7 +69,6 @@ Majority of content will be delivered through video instruction. This allows you
  
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
-![alt text](QzXJ7mPrAJ43cOFJ.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
 
 #### Cheating & Academic Dishonesty
 
