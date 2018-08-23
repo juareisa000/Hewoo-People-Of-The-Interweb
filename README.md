@@ -97,3 +97,7 @@ Research, as well as personal experience, shows that students tend to understand
  
 #### CMS / LMS:
 We will use ManageBac.
+
+
+![alt text]( "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+ 
