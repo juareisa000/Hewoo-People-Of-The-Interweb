@@ -99,5 +99,5 @@ Research, as well as personal experience, shows that students tend to understand
 We will use ManageBac.
 
 
-![alt text]( silhouette-peace-sign-9.pngCC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+![alt text]( silhouette-peace-sign-9.png "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
  
