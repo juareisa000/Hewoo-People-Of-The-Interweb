@@ -190,5 +190,5 @@ Research, as well as personal experience, shows that students tend to understand
 ![alt text](checky.png "Yes") I understand
 
 
-![alt text](digitalart.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+![alt text](Toy-Story-Alien-PNG-Photos.png "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
  
